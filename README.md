@@ -24,7 +24,7 @@ Je suis également activement en recherche d'un emploi de Data Scientist ou Mach
 | **Étude de santé publique avec Python** | Jan. 2023 – Fév. 2023 | Analyse des données de sous-nutrition et disponibilité alimentaire mondiale en 2017, calcul des proportions de disponibilité alimentaire utilisée pour l’alimentation animale et humaine, identification des pays les plus touchés par la sous-nutrition. | ![Python](https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=yellow) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=python&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%235670B3.svg?logo=python&logoColor=white)| [Repository](lien_repository) |
 
 ## Contact
-Pour en savoir plus sur moi et mes projets, n'hésitez pas à me contacter via mon LinkedIn [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bastien-moreno441237/).
+Pour en savoir plus sur moi et mes projets, n'hésitez pas à me contacter via mon LinkedIn. [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bastien-moreno441237/)
 
 <!--
 **Bastien441237/Bastien441237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
