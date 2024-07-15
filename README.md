@@ -4,7 +4,8 @@ Vous trouverez ici des projets orientés Data allant du nettoyage de la donnée 
 
 ## Qui suis-je ?
 Je suis Bastien Moreno, un ingénieur en Machine Learning / Data Scientist passionné par l'analyse de données et le développement de modèles intelligents. J'ai récemment terminé un programme en partenariat avec CentraleSupélec et OpenClassrooms, où j'ai travaillé sur divers projets passionnants.\
-Je suis également activement en recherche d'un emploi de Data Scientist ou Machine Learning Engineer sur Nantes et ces environs.
+Je suis également activement en recherche d'un emploi de Data Scientist ou Machine Learning Engineer sur Nantes et ces environs.\
+Vous pouvez me joindre via mon [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bastien-moreno441237/).
 
 ## Projets du parcours Data Scientist CentraleSupélec / OpenClassrooms 
 
