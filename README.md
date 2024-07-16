@@ -1,5 +1,11 @@
 # Bienvenue sur mon GitHub
 
+## 📞 Contact
+
+- LinkedIn: [Votre Nom](https://www.linkedin.com/in/votreprofil)
+- Email: [votre.email@example.com](mailto:votre.email@example.com)
+- GitHub: [Bastien441237](https://github.com/Bastien441237)
+
 Vous trouverez ici des projets orientés Data allant du nettoyage de la donnée jusqu'au déploiement de modèle de machine / deep learning. 
 
 ## Qui suis-je ?
