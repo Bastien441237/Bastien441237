@@ -34,18 +34,12 @@ Vous pouvez me joindre via mon [![LinkedIn](https://img.shields.io/badge/LinkedI
 
 ## Contact
 Pour en savoir plus sur moi et mes projets, n'hésitez pas à me contacter via mon [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bastien-moreno441237/).
-<br/>
 
-<a href="https://github.com/Bastien441237/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bastien441237&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Bastien441237/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bastien441237&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
+![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=Bastien441237&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 
-<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bastien441237&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bastien441237&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats) 
+![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=Bastien441237&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
 <!--
 **Bastien441237/Bastien441237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
