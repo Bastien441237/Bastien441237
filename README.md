@@ -45,9 +45,7 @@ Pour en savoir plus sur moi et mes projets, n'hésitez pas à me contacter via m
 
 <br/>
 
-<div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bastien441237&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bastien441237&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats) 
 
 <!--
 **Bastien441237/Bastien441237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
